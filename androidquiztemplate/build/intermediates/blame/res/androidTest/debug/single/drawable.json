@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "E:\\This is Project\\AndroidProjectFromGame\\MyApplication\\androidquiztemplate\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\oval_white.xml",
+        "source": "E:\\This is Project\\AndroidProjectFromGame\\MyApplication\\androidquiztemplate\\build\\intermediates\\bundles\\debug\\res\\drawable\\oval_white.xml"
+    },
+    {
+        "merged": "E:\\This is Project\\AndroidProjectFromGame\\MyApplication\\androidquiztemplate\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\oval_red.xml",
+        "source": "E:\\This is Project\\AndroidProjectFromGame\\MyApplication\\androidquiztemplate\\build\\intermediates\\bundles\\debug\\res\\drawable\\oval_red.xml"
+    },
+    {
+        "merged": "E:\\This is Project\\AndroidProjectFromGame\\MyApplication\\androidquiztemplate\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\oval_yellow.xml",
+        "source": "E:\\This is Project\\AndroidProjectFromGame\\MyApplication\\androidquiztemplate\\build\\intermediates\\bundles\\debug\\res\\drawable\\oval_yellow.xml"
+    },
+    {
+        "merged": "E:\\This is Project\\AndroidProjectFromGame\\MyApplication\\androidquiztemplate\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\oval_green.xml",
+        "source": "E:\\This is Project\\AndroidProjectFromGame\\MyApplication\\androidquiztemplate\\build\\intermediates\\bundles\\debug\\res\\drawable\\oval_green.xml"
+    },
+    {
+        "merged": "E:\\This is Project\\AndroidProjectFromGame\\MyApplication\\androidquiztemplate\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\oval_blue.xml",
+        "source": "E:\\This is Project\\AndroidProjectFromGame\\MyApplication\\androidquiztemplate\\build\\intermediates\\bundles\\debug\\res\\drawable\\oval_blue.xml"
+    }
+]

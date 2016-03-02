@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "E:\\This is Project\\AndroidProjectFromGame\\MyApplication\\androidquiztemplate\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\activity_end_of_game.xml",
+        "source": "E:\\This is Project\\AndroidProjectFromGame\\MyApplication\\androidquiztemplate\\build\\intermediates\\bundles\\debug\\res\\layout\\activity_end_of_game.xml"
+    },
+    {
+        "merged": "E:\\This is Project\\AndroidProjectFromGame\\MyApplication\\androidquiztemplate\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\quiz.xml",
+        "source": "E:\\This is Project\\AndroidProjectFromGame\\MyApplication\\androidquiztemplate\\build\\intermediates\\bundles\\debug\\res\\layout\\quiz.xml"
+    },
+    {
+        "merged": "E:\\This is Project\\AndroidProjectFromGame\\MyApplication\\androidquiztemplate\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\activity_main.xml",
+        "source": "E:\\This is Project\\AndroidProjectFromGame\\MyApplication\\androidquiztemplate\\build\\intermediates\\bundles\\debug\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\This is Project\\AndroidProjectFromGame\\MyApplication\\androidquiztemplate\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\quiz_answer.xml",
+        "source": "E:\\This is Project\\AndroidProjectFromGame\\MyApplication\\androidquiztemplate\\build\\intermediates\\bundles\\debug\\res\\layout\\quiz_answer.xml"
+    },
+    {
+        "merged": "E:\\This is Project\\AndroidProjectFromGame\\MyApplication\\androidquiztemplate\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\quiz_feedback.xml",
+        "source": "E:\\This is Project\\AndroidProjectFromGame\\MyApplication\\androidquiztemplate\\build\\intermediates\\bundles\\debug\\res\\layout\\quiz_feedback.xml"
+    },
+    {
+        "merged": "E:\\This is Project\\AndroidProjectFromGame\\MyApplication\\androidquiztemplate\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\quiz_question.xml",
+        "source": "E:\\This is Project\\AndroidProjectFromGame\\MyApplication\\androidquiztemplate\\build\\intermediates\\bundles\\debug\\res\\layout\\quiz_question.xml"
+    }
+]
